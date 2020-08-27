@@ -1,6 +1,4 @@
-<img align="right" width="400" height="400" src="giphy (1).gif">
-
-Hello World! I'm Malu 👋
+## Hello World! I'm Malu 👋
 
 
 ## ✨ About me 
