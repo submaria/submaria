@@ -1,4 +1,16 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://gph.is/st/mqq8JKm">
+
+### Hello World! 👋
+
+## I'm Maria Luiza, but you can call me Malu!
+
+## ✨ About me 👩‍💻
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-luiza-alves-da-silva-machado-4800231b5/)](https://www.linkedin.com/in/maria-luiza-alves-da-silva-machado-4800231b5/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/submaria.jpeg/)](https://www.instagram.com/submaria.jpeg/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marialuizaasm@gmail.com)](mailto:marialuizaasm@gmail.com)
+ 
+ ## ✨ I'm currently learning ...
+[![C Sharp Badge](https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white"/)
 
 <!--
 **submaria/submaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
