@@ -1,9 +1,13 @@
-<h1 align= "center"> Hello World! I'm Malu 👋 </br>
+<h1 align= "center"> Hello World! I'm Malu 👋 </br> </h1>
 	<h3> ✨ About me </h3>
 	<p> 
 		I live in the state of São Paulo - Brazil and I am in the second year as a computer technician at Colégio Univap - CTI 👩🏻‍💻. 
-		[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-luiza-alves-da-silva-machado-4800231b5/)](https://www.linkedin.com/in/maria-luiza-alves-da-silva-machado-4800231b5/)
-		[![Instagram Badge](https://img.shields.io/badge/-instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/submaria.jpeg/)](https://www.instagram.com/submaria.jpeg/)
+		<a href="https://www.linkedin.com/in/maria-luiza-alves-da-silva-machado-4800231b5/">
+			<img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=fefefe"/>
+		</a>
+		<a href="https://www.instagram.com/submaria.jpeg/">
+			<img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-8134af?&logoColor=fefefe&logo=instagram"/>
+		
 		[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marialuizaasm@gmail.com)](mailto:marialuizaasm@gmail.com)
 	</p>
 	<h3> ✨ I'm currently learning ... </h3>
@@ -18,4 +22,4 @@
 		[Phyton Badge](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white/)
 	</p>
 
-</h1>
+
