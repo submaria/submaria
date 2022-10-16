@@ -2,9 +2,9 @@
 
 ## ✏️ About me 
 ## I live in the state of São Paulo - Brazil and I'm a computer science student at UNIP 👩🏻‍💻. 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-luiza-alves-da-silva-machado-4800231b5/)](https://www.linkedin.com/in/maria-luiza-alves-da-silva-machado-4800231b5/)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/submaria.jpeg/)](https://www.instagram.com/submaria.jpeg/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marialuizaasm@gmail.com)](mailto:marialuizaasm@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-luiza-alves-da-silva-machado-4800231b5/)](https://www.linkedin.com/in/maria-luiza-alves-da-silva-machado-4800231b5/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/submaria.jpeg/)](https://www.instagram.com/submaria.jpeg/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marialuizaasm@gmail.com)](mailto:marialuizaasm@gmail.com)
  
 ## 📚 I'm currently learning ... 
 ![C Sharp Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
