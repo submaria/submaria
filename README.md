@@ -27,7 +27,7 @@
     </td>
     <td valign="middle" align="center" width="50%">
         <p valign="middle" align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=submaria&show_icons=true&theme=synthwave" alt="Malu's GitHub stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=submaria&show_icons=true&theme=tokyonight" alt="Malu's GitHub stats">
         </p>
     </td>
   </tr>
@@ -38,7 +38,7 @@
       </h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,typescript,dotnet,mysql,angular,vue" alt="My Skills" width="70%">
+          <img src="https://skillicons.dev/icons?i=html,css,js,typescript,dotnet,mysql,angular,vue" alt="My Skills" width="60%">
         </a>
       </p>
     </div>
