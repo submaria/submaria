@@ -34,7 +34,7 @@
 </table>
 <div align="center" width="100%">
   <p align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Github Snake Animation" style="max-width: 100%; width: 100%;">
+   <img src="https://github.com/submaria/submaria/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation">
   </p>
 </div>
     <div align="center" width="100%">
