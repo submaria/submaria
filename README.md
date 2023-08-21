@@ -1,18 +1,70 @@
-<h1 align="center"> Hello World! I'm Malu 👋</h1>
-
-## ✏️ About me 
-## I live in the state of São Paulo - Brazil and I'm a computer science student at UNIP 👩🏻‍💻. 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-luiza-alves-da-silva-machado-4800231b5/)](https://www.linkedin.com/in/maria-luiza-alves-da-silva-machado-4800231b5/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/submaria.jpeg/)](https://www.instagram.com/submaria.jpeg/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marialuizaasm@gmail.com)](mailto:marialuizaasm@gmail.com)
- 
-## 📚 I'm currently learning ... 
-![C Sharp Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML Bagde](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Phyton Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<h1 align="center">
+    Maria Luiza Alves da Silva Machado
+</h1>
+<div align="center" width="100%">
+  <h3 align="center">
+    Leave me a Message
+  </h3>
+  <p align="center">
+    <a href="mailto:marialuizaasm@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/marialuizamachado/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+</div>
+<table width="100%">
+  <tr>
+    <td valign="middle" align="center" width="50%">
+      <h3>About me</h3>
+      <p valign="middle" align="center">
+        I'm Malu, a 19 year old Fullstack developer. I'm currently working in the field, using technologies such as VB.NET, SQL Server, Angular, TypeScript and Ionic, while also learning PHP, Java and Python.
+      </p>
+      <p valign="middle" align="center">
+        In my free time, I enjoy exploring new technologies and experimenting with various programming languages. I believe that keeping up with the latest trends and developments in the industry is essential to stay ahead of the curve and deliver the best possible solutions to clients.
+      </p>
+    </td>
+    <td valign="middle" align="center" width="50%">
+        <p valign="middle" align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=submaria&show_icons=true&theme=synthwave" alt="Malu's GitHub stats">
+        </p>
+    </td>
+  </tr>
+</table>
+<div align="center" width="100%">
+  <p align="center" width="100%">
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Github Snake Animation" style="max-width: 100%; width: 100%;">
+  </p>
+</div>
+    <div align="center" width="100%">
+      <h3 align="center">
+        Technologies I Work 💻
+      </h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,typescript,dotnet,mysql,angular,vue" alt="My Skills" width="70%">
+        </a>
+      </p>
+    </div>
+    
+  <div align="center" style="width:100%">
+    <h3 align="center">
+      Technologies I've already had contact 📝
+    </h3>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,kotlin,unity,python,java,bootstrap" alt="My Skills" >
+      </a>
+    </p>
+  </div>
+  <div align="center" width="100%">
+    <h3 align="center">
+      Technologies I'm Learning 📓
+    </h3>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,php,firebase,flutter,git" alt="My Skills" >
+      </a>
+    </p>
+  </div>
