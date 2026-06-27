@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,vb,sqlserver,typescript,javascript,angular,html,css,git" alt="My Skills" width="70%">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,typescript,angular,html,css,mysql,git" alt="My Skills" width="70%">
   </a>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,bootstrap,ionic,kotlin" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,kotlin,bootstrap,ionic" alt="My Skills">
   </a>
 </p>
 
@@ -84,7 +84,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,flutter,docker,azure,aws,pytorch,tensorflow" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=python,react,flutter,docker,azure,pytorch,tensorflow" alt="My Skills">
   </a>
 </p>
 
