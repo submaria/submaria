@@ -20,29 +20,23 @@
   <tr>
     <td valign="middle" align="center" width="50%">
       <h3>About me</h3>
-
       <p valign="middle" align="center">
         I'm Malu, a Systems Analyst and Software Developer focused on technology, data and business solutions. 
         I currently work with systems analysis, requirements gathering, integrations, database management and software development.
       </p>
-
       <p valign="middle" align="center">
         I have experience with technologies such as VB.NET, C#, SQL Server, Angular, TypeScript and APIs, 
         working with corporate systems, data analysis and process improvements.
       </p>
-
       <p valign="middle" align="center">
         I'm passionate about Artificial Intelligence and innovation. Currently, I'm developing projects involving 
         AI, Computer Vision and Data Science, including research focused on medical image analysis.
       </p>
-
       <p valign="middle" align="center">
         In my free time, I enjoy exploring new technologies, learning about software architecture, 
         data-driven solutions and creating projects that combine technology and real-world impact.
       </p>
-
     </td>
-
     <td valign="middle" align="center" width="50%">
         <p valign="middle" align="center">
           <img src="https://github-readme-stats.vercel.app/api?username=submaria&show_icons=true&theme=tokyonight" alt="Malu's GitHub stats">
