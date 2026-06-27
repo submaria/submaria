@@ -46,7 +46,6 @@
   </tr>
 </table>
 
-
 <div align="center" width="100%">
 
 <h3 align="center">
@@ -55,10 +54,38 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,dotnet,cs,mysql,angular,git" alt="My Skills" width="60%">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,vb,sqlserver,typescript,javascript,angular,html,css,git" alt="My Skills" width="70%">
   </a>
 </p>
 
 </div>
 
-<div align="center" width="100%"> <h3 align="center"> Technologies I Work 💻 </h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cs,dotnet,vb,sqlserver,typescript,javascript,angular,html,css,git" alt="My Skills" width="70%"> </a> </p> </div> <div align="center" style="width:100%"> <h3 align="center"> Technologies I've already had contact 📝 </h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,bootstrap,ionic,kotlin" alt="My Skills"> </a> </p> </div> <div align="center" width="100%"> <h3 align="center"> Technologies I'm Learning 📓 </h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,react,flutter,docker,azure,aws,pytorch,tensorflow" alt="My Skills"> </a> </p> </div>
+
+<div align="center" style="width:100%">
+
+<h3 align="center">
+  Technologies I've already had contact 📝
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,bootstrap,ionic,kotlin" alt="My Skills">
+  </a>
+</p>
+
+</div>
+
+
+<div align="center" width="100%">
+
+<h3 align="center">
+  Technologies I'm Learning 📓
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,react,flutter,docker,azure,aws,pytorch,tensorflow" alt="My Skills">
+  </a>
+</p>
+
+</div>
