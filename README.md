@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,typescript,angular,html,css,mysql,git" alt="My Skills" width="70%">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,typescript,angular,html,css,mysql,git" alt="My Skills" width="70%">
   </a>
 </p>
 
@@ -84,7 +84,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,flutter,docker,azure,pytorch,tensorflow" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=react,pytorch,tensorflow" alt="My Skills">
   </a>
 </p>
 
