@@ -1,91 +1,105 @@
 <h1 align="center">
-    Maria Luiza Alves da Silva Machado
+  Hi 👋, I'm Maria Luiza Machado
 </h1>
 
-<div align="center" width="100%">
-  <h3 align="center">
-    Leave me a Message
-  </h3>
-  <p align="center">
-    <a href="mailto:marialuizaasm@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/marialuizamachado/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </p>
-</div>
-
-<table width="100%">
-  <tr>
-    <td valign="middle" align="center" width="50%">
-      <h3>About me</h3>
-      <p valign="middle" align="center">
-        I'm Malu, a Systems Analyst and Software Developer focused on technology, data and business solutions. 
-        I currently work with systems analysis, requirements gathering, integrations, database management and software development.
-      </p>
-      <p valign="middle" align="center">
-        I have experience with technologies such as VB.NET, C#, SQL Server, Angular, TypeScript and APIs, 
-        working with corporate systems, data analysis and process improvements.
-      </p>
-      <p valign="middle" align="center">
-        I'm passionate about Artificial Intelligence and innovation. Currently, I'm developing projects involving 
-        AI, Computer Vision and Data Science, including research focused on medical image analysis.
-      </p>
-      <p valign="middle" align="center">
-        In my free time, I enjoy exploring new technologies, learning about software architecture, 
-        data-driven solutions and creating projects that combine technology and real-world impact.
-      </p>
-    </td>
-    <td valign="middle" align="center" width="50%">
-        <p valign="middle" align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=submaria&show_icons=true&theme=tokyonight" alt="Malu's GitHub stats">
-        </p>
-    </td>
-
-  </tr>
-</table>
-
-<div align="center" width="100%">
-
 <h3 align="center">
-  Technologies I Work 💻
+  Systems Analyst | Software Developer | Data & AI Enthusiast
 </h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,typescript,angular,html,css,mysql,git" alt="My Skills" width="70%">
-  </a>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+business+solutions+with+technology;SQL+%7C+.NET+%7C+Angular+%7C+Data;Exploring+Artificial+Intelligence+%26+Computer+Vision" />
 
 </div>
 
 
-<div align="center" style="width:100%">
-
-<h3 align="center">
-  Technologies I've already had contact 📝
-</h3>
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,kotlin,bootstrap,ionic" alt="My Skills">
+  <a href="mailto:marialuizaasm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/marialuizamachado/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+
+---
+
+## 👩‍💻 About Me
+
+I'm Malu, a Systems Analyst and Software Developer focused on creating technology solutions that connect **business, data and software development**.
+
+Currently, I work with:
+
+- 💻 Systems analysis and requirements
+- 🗄️ Database management and SQL development
+- 🔗 System integrations and APIs
+- ⚙️ Corporate software solutions
+- 📊 Data-driven improvements
+
+My main technologies include **VB.NET, C#, SQL Server, Angular and TypeScript**.
+
+I'm also passionate about **Artificial Intelligence, Data Science and Computer Vision**, developing projects that combine technology with real-world problems.
+
+
+---
+
+## 🛠️ Technologies I Work With
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,typescript,javascript,html,css,mysql,git" />
+
+</p>
+
+
+## 📝 Technologies I've Worked With
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,kotlin,bootstrap,ionic" />
+
+</p>
+
+
+## 🚀 Areas I'm Exploring
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=submaria&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=submaria&layout=compact&theme=tokyonight"/>
 
 </div>
 
 
-<div align="center" width="100%">
+---
 
-<h3 align="center">
-  Technologies I'm Learning 📓
-</h3>
+## 🐍 Contribution Snake
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,pytorch,tensorflow" alt="My Skills">
-  </a>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/submaria/submaria/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+
+---
+
+<div align="center">
+
+⭐ Always learning, building and improving.
 
 </div>
