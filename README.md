@@ -3,12 +3,12 @@
 </h1>
 
 <h3 align="center">
-  Systems Analyst | Software Developer | Data & AI Enthusiast
+  Systems Analyst | SQL & BI | Data Enthusiast
 </h3>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+business+solutions+with+technology;SQL+%7C+.NET+%7C+Angular+%7C+Data;Exploring+Artificial+Intelligence+%26+Computer+Vision" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Transforming+data+into+business+solutions;SQL+%7C+BI+%7C+Systems+Analysis;Building+solutions+with+technology+and+data" />
 
 </div>
 
@@ -28,19 +28,19 @@
 
 ## 👩‍💻 About Me
 
-I'm Malu, a Systems Analyst and Software Developer focused on creating technology solutions that connect **business, data and software development**.
+I'm Malu, a Systems Analyst focused on **Data, Business Intelligence and database solutions**, passionate about transforming business needs into efficient technology solutions.
 
 Currently, I work with:
 
-- 💻 Systems analysis and requirements
-- 🗄️ Database management and SQL development
-- 🔗 System integrations and APIs
-- ⚙️ Corporate software solutions
-- 📊 Data-driven improvements
+- 🗄️ SQL development and database analysis
+- 📊 Business Intelligence and data-driven solutions
+- 🔎 Data validation, investigation and process improvements
+- 🔗 Systems integration and business rules
+- ⚙️ Corporate systems and application support
 
-My main technologies include **VB.NET, C#, SQL Server, Angular and TypeScript**.
+I have previous experience with software development using technologies such as **VB.NET, C#, Angular and TypeScript**, which helped me build a strong understanding of systems from both technical and business perspectives.
 
-I'm also passionate about **Artificial Intelligence, Data Science and Computer Vision**, developing projects that combine technology with real-world problems.
+I'm also interested in **Artificial Intelligence, Data Science and Computer Vision**, exploring how technology can solve real-world problems.
 
 
 ---
@@ -49,7 +49,7 @@ I'm also passionate about **Artificial Intelligence, Data Science and Computer V
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,typescript,javascript,html,css,mysql,git" />
+<img src="https://skillicons.dev/icons?i=mysql,python,git" />
 
 </p>
 
@@ -58,16 +58,16 @@ I'm also passionate about **Artificial Intelligence, Data Science and Computer V
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,kotlin,bootstrap,ionic" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,typescript,javascript,html,css,java,php" />
 
 </p>
 
 
-## 🚀 Areas I'm Exploring
+## 📊 Data & BI Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,postgres,powerbi" />
 
 </p>
 
@@ -100,6 +100,6 @@ I'm also passionate about **Artificial Intelligence, Data Science and Computer V
 
 <div align="center">
 
-⭐ Always learning, building and improving.
+⭐ Always learning, analyzing and building better solutions.
 
 </div>
